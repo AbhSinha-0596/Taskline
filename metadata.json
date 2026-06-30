@@ -1,0 +1,6 @@
+{
+  "name": "TASKLINE",
+  "description": "An interactive prototype assisting users with managing critical deadlines, travel tickets, meetings, calls, and last-minute alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
