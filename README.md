@@ -1,4 +1,4 @@
-# 🚀 Deadline & Task Reminder Assistant
+# 🚀 Taskline - Your Deadline Management Assistant
 
 > **A cloud-based productivity assistant that helps users stay ahead of deadlines through intelligent task organization, real-time countdowns, and urgency-driven prioritization.** Built with modern web technologies and deployed on Google Cloud Run for fast, scalable, and reliable access.
 
